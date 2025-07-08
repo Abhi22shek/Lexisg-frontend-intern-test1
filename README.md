@@ -12,7 +12,7 @@
 
 🚀 Live Demo
   🌐 Click here to view live (if hosted)
-  (Replace with your actual deployed site link, e.g. Vercel or Netlify)
+  ((https://lexisg-frontend-intern-test1.vercel.app/))
 
 🛠️ Tech Stack
 
